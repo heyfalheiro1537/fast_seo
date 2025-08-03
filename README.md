@@ -1,9 +1,7 @@
 # 🚀 SEO-RS
 
-[![Crates.io](https://img.shields.io/crates/v/seo-rs.svg)](https://crates.io/crates/seo-rs)
-[![Documentation](https://docs.rs/seo-rs/badge.svg)](https://docs.rs/seo-rs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/seuusuario/seo-rs/workflows/CI/badge.svg)](https://github.com/seuusuario/seo-rs/actions)
+
 
 Uma biblioteca Rust poderosa e moderna para **análise e otimização de SEO**. Analise páginas web, gere relatórios detalhados e obtenha recomendações práticas para melhorar o posicionamento nos mecanismos de busca.
 
