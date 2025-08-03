@@ -1,6 +1,22 @@
 [package]
 name = "seo-rs"
 version = "0.1.0"
-edition = "2024"
+edition = "2025"
+description = "Uma biblioteca Rust para análise e otimização de SEO"
+license = "MIT"
+authors = ["Heyder Falheiro heyfalheiro@gmail.com"]
+repository = "https://github.com/heyfalheiro1537/fast_seo"
 
 [dependencies]
+scraper = "0.18"
+url = "2.4"
+reqwest = { version = "0.11", features = ["json"] }
+tokio = { version = "1.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+regex = "1.10"
+html5ever = "0.26"
+markup5ever_rcdom = "0.2"
+
+[dev-dependencies]
+tokio-test = "0.4"
